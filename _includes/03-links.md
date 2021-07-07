@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![My LinkedI Prohile](www.linkedin.com/in/francis-dadzie-765b34128 )www.linkedin.com/in/francis-dadzie-765b34128 
