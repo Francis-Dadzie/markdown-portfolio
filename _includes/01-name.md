@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Francis Dadzie
+## Getting to know Francis
+- [x] 1
