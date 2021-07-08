@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I saw my brotheer _swimming_ 
+
+~~This was a mistake~~ I cancelled out 
+
+This is a **Bold** Text
+
